@@ -12,7 +12,9 @@
 
 ——摘自李猫球的博客。
 
-本站仅为存档，用于批判，不代表 Yinoe Workshop 之立场。
+本站仅为存档，用于批判，不代表[本分叉仓库](https://github.com/233213fedf/stone-fork/)维护者之立场。
+
+**网站使用 [Docsify](https://docsify.js.org/#/) 驱动。**
 
 # 版权声明
 
